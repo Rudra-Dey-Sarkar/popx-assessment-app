@@ -3,11 +3,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Links
+PopX App Review Video :- https://www.loom.com/share/25a297046ebb4de4ac869211bd6c614f
 
-PopX App Review Video :-
-https://www.loom.com/share/25a297046ebb4de4ac869211bd6c614f
-
-Deployed Application Link :- https://school-management-system-kohl-phi.vercel.app
+Deployed Application Link :- https://popx-assessment-app.vercel.app/
 
 Github Link :- https://github.com/Rudra-Dey-Sarkar/popx-assessment-app
 
