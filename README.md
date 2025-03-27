@@ -3,6 +3,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Links
+
+PopX App Review Video :-
+https://www.loom.com/share/25a297046ebb4de4ac869211bd6c614f
+
 Deployed Application Link :- https://school-management-system-kohl-phi.vercel.app
 
 Github Link :- https://github.com/Rudra-Dey-Sarkar/School-Management-System
